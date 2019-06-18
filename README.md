@@ -15,7 +15,7 @@ TO ADD YOUR OWN SERIAL NUMBERS AND LETTERS, open GoPro_Letter.sh in a text edito
 TO FIND YOUR GOPRO’S SERIAL NUMBER, format a card in the camera. The GoPro creates a “version.txt” file that contains some camera-specific information. You can find the serial number there.
 
 
-Feel free to reach out with questions, problems, or feature requests.
+Feel free to reach out with questions, problems, or feature requests. I'm planning to add functionality and ease-of-use as I have time to develop this script. Use at your own risk!
 
 
 

@@ -8,7 +8,7 @@ The PKG installer is the easiest way to  install the script. The main script and
 
 The installer creates two files on your system. One is the main script (GoPro_Letter.sh), which is located at /Library/DevTools/. The other is a launch agent, located at ~/Library/LaunchAgents/.
 
-The launch agent listens for a disk mount. When it detects one, it runs the script. One issue with launch agents is they can only run a script every 10 seconds. If you connect multiple cards one after another, it’ll be 10 seconds between each identification dialog popup.
+The launch agent listens for a disk mount. When it detects one, it runs the script. An issue with launch agents is they  only run a script every 10 seconds. If you connect multiple cards one after another, it’ll be 10 seconds between each identification dialog popup.
 
 TO ADD YOUR OWN SERIAL NUMBERS AND LETTERS, open GoPro_Letter.sh in a text editor. Your Library folder might be hidden, so you can navigate there by opening a Finder window, pressing CMD-SHIFT-G, and typing “/Library/DevTools” in the box. Near the top of the script you’ll see a variable called “camera_list”. That’s the array that holds the letter/number combinations. It’s populated with dummy numbers. The camera letter precedes the serial number with which it’s associated. Change the letters and serial numbers to match your project’s serial numbers and assigned letters, being sure to keep the formatting as it appears in the script. You can add or remove letter/number combinations, just follow the established pattern, paying attention to proper quotes and spaces.
 

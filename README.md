@@ -18,6 +18,5 @@ TO FIND YOUR GOPRO’S SERIAL NUMBER, format a card in the camera. The GoPro cre
 Feel free to reach out with questions, problems, or feature requests. I'm planning to add functionality and ease-of-use as I have time to develop this script. Use at your own risk!
 
 
-
 David Hurd
 davidleehurd@gmail.com

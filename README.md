@@ -4,7 +4,7 @@ v .1
 Tracks GoPro serial numbers and assigned camera letters.
 
 
-The PKG installer is the easiest way to  install the script. The main script and launch agent are availble on Github for viewing, but the PKG will automatically put both files in the correct locations.
+The PKG installer found under the "Releases" tab is the easiest way to  install the script. The main script and launch agent are availble on Github for viewing, but the PKG will automatically put both files in the correct locations.
 
 The installer creates two files on your system. One is the main script (GoPro_Letter.sh), which is located at /Library/DevTools/. The other is a launch agent, located at ~/Library/LaunchAgents/.
 

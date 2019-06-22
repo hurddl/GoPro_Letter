@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#CREATED BY DAVID HURD | DAVIDLEEHURD@GMAIL.COM | 323-445-0792
+#CREATED BY DAVID HURD | DAVIDLEEHURD@GMAIL.COM
 
 #launch agent com.gopro.letter starts this script when a drive is mounted
 

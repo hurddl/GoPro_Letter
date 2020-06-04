@@ -3,6 +3,7 @@ v .1
 
 Tracks GoPro serial numbers and assigned camera letters.
 
+## **UPDATE** I rebuilt this script in Swift as a macOS menu bar application. It has improved performance, added functionality, and a UI for managing cameras. You can download it at www.dhurd.com.
 
 The PKG installer found under the "Releases" tab is the easiest way to  install the script. The main script and launch agent are available on Github for viewing, but the PKG will automatically put both files in the correct locations.
 
